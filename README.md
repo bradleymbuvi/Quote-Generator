@@ -31,4 +31,7 @@ Core Feature
 The Quote Generator uses an API (Application Programming Interface) to fetch quotes from a database of famous quotes. The API is connected to a server that receives requests from users who want to access the quotes. When a user clicks on the “New Quote” button, the server sends a request to the API, which returns a random quote from its database. The quote is then displayed on the user’s screen, along with the name of the author.
 
 
-The API data used is https://api.quotable.io
+The API data used is https://api.quotable.io/random
+
+
+Author: Bradley Mbuvi
