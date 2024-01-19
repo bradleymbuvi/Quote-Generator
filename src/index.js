@@ -6,9 +6,12 @@ copyBtn = document.querySelector(".copy"),
 twitterBtn = document.querySelector(".twitter"),
 synth = speechSynthesis;
 
+
+ // Quote function
 function randomQuote(){
     quoteBtn.classList.add("loading");
     quoteBtn.innerText = "Loading Quote...";
+    // fetching random quotes from the API and passing it into Javascript object
     fetch("http://api.quotable.io/random").then(response => response.json()).then(result => {
         quoteText.innerText = result.content;
         authorName.innerText = result.author;
