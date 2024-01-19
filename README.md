@@ -36,5 +36,7 @@ The API data used is https://api.quotable.io/random
 
 Live Site : https://bradleymbuvi.github.io/Quote-Generator/
 
+Trello board : https://trello.com/b/5TMuQQ5Q/bradley-mbuvi
+
 
 Author: Bradley Mbuvi
