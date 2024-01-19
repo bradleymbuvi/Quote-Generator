@@ -34,4 +34,7 @@ The Quote Generator uses an API (Application Programming Interface) to fetch quo
 The API data used is https://api.quotable.io/random
 
 
+Live Site : https://bradleymbuvi.github.io/Quote-Generator/
+
+
 Author: Bradley Mbuvi
